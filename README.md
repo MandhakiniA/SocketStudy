@@ -96,10 +96,9 @@ s.send("Acknowledgement received from the client".encode())
 s.close()
 ```
 ## Output:
-client
+client and server
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/95dcc4b8-69b5-451e-9b58-39429cc4d763" />
 
-server
-![WhatsApp Image 2025-04-29 at 14 15 26_320a63ed](https://github.com/user-attachments/assets/6734aa3b-8ac7-49be-8178-5436836c09c3)
 
 
 
