@@ -96,13 +96,8 @@ s.send("Acknowledgement received from the client".encode())
 s.close()
 ```
 ## Output:
-client
-
-server
-![WhatsApp Image 2025-04-29 at 14 15 26_320a63ed](https://github.com/user-attachments/assets/6734aa3b-8ac7-49be-8178-5436836c09c3)
-
-
-
+client and server
+![Screenshot 2025-04-29 143500](https://github.com/user-attachments/assets/367d792a-34f9-4bdb-afc1-f2ca89e2fc7f)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
