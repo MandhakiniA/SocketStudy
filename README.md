@@ -97,7 +97,8 @@ s.close()
 ```
 ## Output:
 client and server
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/95dcc4b8-69b5-451e-9b58-39429cc4d763" />
+![Uploading Screenshot 2025-04-29 143500.png…]()
+
 
 
 
