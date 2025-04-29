@@ -97,7 +97,8 @@ s.close()
 ```
 ## Output:
 client and server
-![Uploading Screenshot 2025-04-29 143500.png…]()
+![Screenshot 2025-04-29 143500](https://github.com/user-attachments/assets/bbf247b4-fb97-4712-a4ac-e3aa0264fc4b)
+
 
 
 
